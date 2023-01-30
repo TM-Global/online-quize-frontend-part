@@ -1,0 +1,37 @@
+.divone{
+    background: linear-gradient(to right, #2CB8B9, #2EBABB);
+   
+}
+.divone a{
+    background: rgb(68, 147, 250);
+   
+}
+.divtwo{
+    background: linear-gradient(to right, #038CD0, #27C5D9);
+    
+}
+.divtwo a{
+    background: rgb(22, 231, 119);
+    
+}
+.divthree{
+    background: linear-gradient(to right, #815FEB, #888AC7);   
+}
+
+.divthree a{
+    background: rgb(100, 155, 244);
+    
+}
+
+.divfour{
+    background: linear-gradient(to right, #555E63, #585F65);
+}
+.divfour a{
+    background: rgb(100, 244, 184); 
+}
+.dashboard_content div{
+    border-radius: 10px;
+    padding-bottom: 10px;
+}
+
+
